@@ -2,7 +2,7 @@ import scrapy
 from scrapy.loader import ItemLoader
 
 
-# from demo_project.items import QuoteItem
+
 
 
 class GoodReadsSpider(scrapy.Spider):
