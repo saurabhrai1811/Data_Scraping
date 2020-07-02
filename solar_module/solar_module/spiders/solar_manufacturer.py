@@ -7,7 +7,7 @@ from scrapy.loader import ItemLoader
 
 class GoodReadsSpider(scrapy.Spider):
     # identity
-    name = "goodreads"
+    name = "manufacturer"
 
     start_urls = [
         'https://www.justdial.com/Delhi/Solar-Panel-Manufacturers/nct-10444072/page-1'
